@@ -26,7 +26,7 @@ export default function Home() {
             </Balancer>
           </h2>
           <p>
-            Fjord is built around the idea of a headless WordPress backend with
+            Headless WordPress backend with
             a NextJS frontend. It makes use of the WordPress REST API to fetch
             data and NextJS to render the frontend.
           </p>
