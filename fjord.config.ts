@@ -8,7 +8,7 @@ const fjord: FjordProps = {
   keywords: ["Next.js", "React", "JavaScript"],
   authors: [{ name: "9d8", url: "https://9d8.dev" }],
   posts_per_page: 9,
-  wordpress_url: "https://windpress.wpenginepowered.com",
+  wordpress_url: "https://evoratec.com",
   google_analytics_id: "G-7VM8KZENP7",
 
   logo: "../logo.svg",
