@@ -27,8 +27,6 @@ export default function Home() {
           </h2>
           <p>
             Headless WordPress backend with
-            a NextJS frontend. It makes use of the WordPress REST API to fetch
-            data and NextJS to render the frontend.
           </p>
           <h3>Key Features</h3>
           <ul>
