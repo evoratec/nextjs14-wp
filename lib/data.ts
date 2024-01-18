@@ -5,7 +5,7 @@ export async function fetchPosts(perPage: number, offset: number) {
   const res = await fetch(
     `${fjord.wordpress_url}/wp-json/wp/v2/posts?_embed&per_page=${perPage}&offset=${offset}&orderby=date`,
     {
-      next: { revalidate: 3600 },
+      next: { revalidate: 0 },
     }
   );
 
